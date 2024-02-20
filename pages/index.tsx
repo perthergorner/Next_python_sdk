@@ -4,7 +4,7 @@ import Layout from "../components/layout";
 
 import { FaHome, FaUserCircle,FaPhoenixFramework,FaServicestack,FaApple,FaMeetup,FaPersonBooth } from "react-icons/fa";
 
-import { useRouter } from "next/router";
+import { useRouter } from "next/router"; 
 
 const Home: NextPage = () => {
   const router = useRouter();
